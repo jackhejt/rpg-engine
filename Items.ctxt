@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=you
+comment0.target=Items(PlayerData)
+comment1.params=
+comment1.target=void\ redraw()
+comment2.params=
+comment2.target=void\ b1()
+comment3.params=
+comment3.target=void\ b2()
+comment4.params=
+comment4.target=void\ m()
+comment5.params=
+comment5.target=void\ down()
+comment6.params=
+comment6.target=void\ up()
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Area(int,\ int)
+comment1.params=x\ y\ you
+comment1.target=Area(int,\ int,\ PlayerData)
+comment2.params=x\ you
+comment2.target=void\ North(int,\ PlayerData)
+comment3.params=x\ you
+comment3.target=void\ South(int,\ PlayerData)
+comment4.params=y\ you
+comment4.target=void\ East(int,\ PlayerData)
+comment5.params=y\ you
+comment5.target=void\ West(int,\ PlayerData)
+comment6.params=
+comment6.target=void\ Setup()
+comment7.params=you
+comment7.target=void\ CombatChance(PlayerData)
+numComments=8

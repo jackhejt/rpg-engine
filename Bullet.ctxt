@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bullet()
+comment1.params=speed\ direction\ owner
+comment1.target=Bullet(int,\ int,\ Player)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ collide()
+numComments=4

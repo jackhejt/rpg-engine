@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=owner
+comment0.target=Weapon(Player)
+comment1.params=speed\ owner
+comment1.target=Weapon(int,\ Player)
+numComments=2
